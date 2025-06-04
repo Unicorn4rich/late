@@ -42,7 +42,7 @@ export default function SidebarDashboard() {
   }
 
   return (
-    <div className=" ml-[400px] w-[270px] h-[860px] bg-gray-100 rounded-2xl shadow-sm border border-gray-100 overflow-hidden flex flex-col p-2">
+    <div className="w-[270px] h-[860px] bg-gray-100 rounded-2xl shadow-sm border border-gray-100 overflow-hidden flex flex-col p-2">
       
       {/* Header Section */}
       <div className="p-4 border-b border-gray-100">
